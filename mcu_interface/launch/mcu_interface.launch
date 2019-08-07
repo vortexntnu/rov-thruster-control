@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<launch>
+  <node pkg="mcu_interface"     type="mcu_interface_node"       name="mcu_interface"/>
+</launch>
+
